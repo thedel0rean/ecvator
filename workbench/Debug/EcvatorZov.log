@@ -1,0 +1,831 @@
+﻿  Проверка источников на наличие зависимостей модуля…
+  Aimbot.cpp
+  DLight.cpp
+  ESP.cpp
+  EventListener.cpp
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2313, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2314, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2318, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x231c, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x231f, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2321, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2324, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2327, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x232c, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2330, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2334, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2337, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x233a, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x233d, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Aimbot.cpp(1,1): warning C4828: Файл содержит знак, начинающийся со смещения 0x2341, который является недопустимым в текущей исходной кодировке (кодовая страница 65001).
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(37,118): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(37,105): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(37,82): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(37,59): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(92,154): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(92,121): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(92,94): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(92,67): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(96,80): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(113,66): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(158,132): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(158,109): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(158,86): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(158,63): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(162,72): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(179,76): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(230,158): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(230,124): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(230,96): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(230,68): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(249,120): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(249,100): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(249,80): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(249,60): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(271,166): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(271,130): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(271,100): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(271,70): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(287,182): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(287,142): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(287,108): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(287,74): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(371,19): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(375,60): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(381,60): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(388,190): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(388,149): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(388,114): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(388,79): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(401,194): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(401,152): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(401,116): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(401,80): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(406,139): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(406,117): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(406,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(406,48): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(409,110): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(409,47): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(430,19): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(434,60): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(440,60): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(447,182): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(447,143): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(447,110): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(447,77): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(460,186): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(460,146): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(460,112): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(460,78): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(465,163): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(465,78): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(465,48): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(465,35): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(499,132): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(499,109): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(499,86): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(499,63): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(523,162): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(523,127): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(523,98): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(523,69): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(534,162): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(534,127): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(534,98): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(534,69): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(545,162): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(545,127): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(545,98): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(545,69): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(556,162): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(556,127): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(556,98): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(556,69): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(567,162): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(567,127): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(567,98): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(567,69): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(578,162): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(578,127): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(578,98): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(578,69): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(589,162): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(589,127): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(589,98): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(589,69): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(651,77): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(653,77): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(656,156): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(656,128): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(656,100): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\ESP.cpp(656,72): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+  GameData.cpp
+  Animations.cpp
+  AntiAim.cpp
+  Backtrack.cpp
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Animations.cpp(252,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Animations.cpp(620,25): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Animations.cpp(636,25): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Animations.cpp(702,45): warning C4552: "&": результат выражения не используется
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Animations.cpp(704,29): warning C4552: "!": результат выражения не используется
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Animations.cpp(857,50): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Backtrack.cpp(135,29): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\AntiAim.cpp(348,121): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\AntiAim.cpp(348,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Chams.cpp
+  EnginePrediction.cpp
+  Fakelag.cpp
+  Glow.cpp
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Chams.cpp(200,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\EnginePrediction.cpp(229,108): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\EnginePrediction.cpp(229,97): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  GrenadePrediction.cpp
+  Grenades.cpp
+  Knifebot.cpp
+  Resolver.cpp
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\GrenadePrediction.cpp(300,73): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\GrenadePrediction.cpp(471,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Tickbase.cpp
+  Visuals.cpp
+  Helpers.cpp
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Resolver.cpp(429,116): warning C5055: Оператор "+": не рекомендуется между перечислениями и типами с плавающей запятой.
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Resolver.cpp(430,117): warning C5055: Оператор "-": не рекомендуется между перечислениями и типами с плавающей запятой.
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Resolver.cpp(436,28): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Resolver.cpp(436,23): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Resolver.cpp(543,31): warning C5055: Оператор "==": не рекомендуется между перечислениями и типами с плавающей запятой.
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Resolver.cpp(543,31): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Resolver.cpp(564,66): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Resolver.cpp(566,66): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Resolver.cpp(595): warning C4715: Resolver::resolve_shot: значение возвращается не при всех путях выполнения
+  InputUtil.cpp
+C:\Users\я\Desktop\sdfsdf\workbench\Helpers.cpp(60,52): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Helpers.cpp(65,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Helpers.cpp(314,46): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Tickbase.cpp(36,35): warning C4552: ">=": результат выражения не используется
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Tickbase.cpp(102,31): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Tickbase.cpp(239,56): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Tickbase.cpp(288,51): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Tickbase.cpp(288,50): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\freetype\src\base\md5.c(256,1): warning C4005: OUT: изменение макроопределения (компилируется исходный файл Hacks\Visuals.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(83,1): message : см. предыдущее определение "OUT" (компилируется исходный файл Hacks\Visuals.cpp)
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Visuals.cpp(1038,124): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Visuals.cpp(1038,102): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Visuals.cpp(1038,80): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Visuals.cpp(1038,58): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Visuals.cpp(1502,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Visuals.cpp(1516,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Logger.cpp
+  Netvars.cpp
+  GUI.cpp
+  Misc.cpp
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(249,22): warning C4018: <: несоответствие типов со знаком и без знака (компилируется исходный файл GUI.cpp)
+C:\Users\я\Desktop\sdfsdf\workbench\fontawesome.h(9,1): warning C4005: ICON_MIN_FA: изменение макроопределения (компилируется исходный файл GUI.cpp)
+C:\Users\я\Desktop\sdfsdf\font_awesome_5.h(3,1): message : см. предыдущее определение "ICON_MIN_FA" (компилируется исходный файл GUI.cpp)
+C:\Users\я\Desktop\sdfsdf\workbench\fontawesome.h(10,1): warning C4005: ICON_MAX_FA: изменение макроопределения (компилируется исходный файл GUI.cpp)
+C:\Users\я\Desktop\sdfsdf\font_awesome_5.h(4,1): message : см. предыдущее определение "ICON_MAX_FA" (компилируется исходный файл GUI.cpp)
+C:\Users\я\Desktop\sdfsdf\workbench\fontawesome.h(325,1): warning C4005: ICON_FA_FAUCET: изменение макроопределения (компилируется исходный файл GUI.cpp)
+C:\Users\я\Desktop\sdfsdf\font_awesome_5.h(615,1): message : см. предыдущее определение "ICON_FA_FAUCET" (компилируется исходный файл GUI.cpp)
+C:\Users\я\Desktop\sdfsdf\workbench\fontawesome.h(910,1): warning C4005: ICON_FA_TRAILER: изменение макроопределения (компилируется исходный файл GUI.cpp)
+C:\Users\я\Desktop\sdfsdf\font_awesome_5.h(1631,1): message : см. предыдущее определение "ICON_FA_TRAILER" (компилируется исходный файл GUI.cpp)
+C:\Users\я\Desktop\sdfsdf\workbench\GUI.cpp(414,48): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\GUI.cpp(416,48): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\GUI.cpp(424,48): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\GUI.cpp(426,48): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+  Hooks.cpp
+C:\Users\я\Desktop\sdfsdf\workbench\GUI.cpp(1251,110): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\GUI.cpp(1251,103): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\GUI.cpp(1252,108): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\GUI.cpp(1252,102): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(554,70): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(589,12): warning C4101: screen: неиспользованная локальная переменная
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(777,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(778,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(1158,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  render.cpp
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(1273,9): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(1688,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(2051,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(2533,80): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(2538,64): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(2539,62): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hacks\Misc.cpp(2540,64): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(166): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(170): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(174): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(178): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(154): warning C4715: ImGuiToast::get_icon: значение возвращается не при всех путях выполнения
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(107): warning C4172: возвращение адреса локальной или временной переменной : string_s
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(109): warning C4172: возвращение адреса локальной или временной переменной : string_w
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(111): warning C4172: возвращение адреса локальной или временной переменной : string_e
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(113): warning C4172: возвращение адреса локальной или временной переменной : string_i
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(137): warning C4715: ImGuiToast::get_color: значение возвращается не при всех путях выполнения
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(127): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(129): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(131): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(133): warning C4172: возвращение адреса локальной или временной переменной
+C:\Users\я\Desktop\sdfsdf\workbench\imgui\imgui_notify.h(135): warning C4172: возвращение адреса локальной или временной переменной
+  AnimState.cpp
+  Entity.cpp
+C:\Users\я\Desktop\sdfsdf\workbench\render.cpp(70,66): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\render.cpp(98,71): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\render.cpp(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\я\Desktop\sdfsdf\workbench\render.cpp(169,73): warning C5055: Оператор "==": не рекомендуется между перечислениями и типами с плавающей запятой.
+C:\Users\я\Desktop\sdfsdf\workbench\render.cpp(172,74): warning C5055: Оператор "==": не рекомендуется между перечислениями и типами с плавающей запятой.
+C:\Users\я\Desktop\sdfsdf\workbench\render.cpp(193,81): warning C5055: Оператор "==": не рекомендуется между перечислениями и типами с плавающей запятой.
+C:\Users\я\Desktop\sdfsdf\workbench\render.cpp(196,82): warning C5055: Оператор "==": не рекомендуется между перечислениями и типами с плавающей запятой.
+C:\Users\я\Desktop\sdfsdf\workbench\Hooks.cpp(420,64): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hooks.cpp(425,60): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\Hooks.cpp(1630,96): warning C4552: "+": результат выражения не используется
+C:\Users\я\Desktop\sdfsdf\workbench\Hooks.cpp(1717,27): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  GlobalVars.cpp
+  Utils.cpp
+  SkinChanger.cpp
+  snowflakes.cpp
+C:\Users\я\Desktop\sdfsdf\workbench\snowflakes.cpp(33,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\snowflakes.cpp(46,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\snowflakes.cpp(46,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\snowflakes.cpp(83,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\snowflakes.cpp(83,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\я\Desktop\sdfsdf\workbench\snowflakes.cpp(111,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/FORCE"
+Aimbot.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+ESP.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+ESP.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+ESP.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+ESP.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+EventListener.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+EventListener.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+EventListener.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+EventListener.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Animations.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "bool Aimbot::shouldStop" (?shouldStop@Aimbot@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "bool Tickbase::isPeeking" (?isPeeking@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "float Tickbase::realTime" (?realTime@Tickbase@@3MA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "int Tickbase::targetTickShift" (?targetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "int Tickbase::tickShift" (?tickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "int Tickbase::shiftCommand" (?shiftCommand@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "int Tickbase::shiftedTickbase" (?shiftedTickbase@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "int Tickbase::ticksAllowedForProcessing" (?ticksAllowedForProcessing@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "int Tickbase::chokedPackets" (?chokedPackets@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "int Tickbase::pauseTicks" (?pauseTicks@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "bool Tickbase::shifting" (?shifting@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "bool Tickbase::finalTick" (?finalTick@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "bool Tickbase::hasHadTickbaseActive" (?hasHadTickbaseActive@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "int Tickbase::nextShiftAmount" (?nextShiftAmount@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "int Tickbase::isRechargeTime" (?isRechargeTime@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "bool Tickbase::isRecharging" (?isRecharging@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "bool Tickbase::sendPacket" (?sendPacket@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "int Tickbase::DeftargetTickShift" (?DeftargetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+AntiAim.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "bool Aimbot::shouldStop" (?shouldStop@Aimbot@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "bool Tickbase::isPeeking" (?isPeeking@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "float Tickbase::realTime" (?realTime@Tickbase@@3MA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "int Tickbase::targetTickShift" (?targetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "int Tickbase::tickShift" (?tickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "int Tickbase::shiftCommand" (?shiftCommand@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "int Tickbase::shiftedTickbase" (?shiftedTickbase@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "int Tickbase::ticksAllowedForProcessing" (?ticksAllowedForProcessing@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "int Tickbase::chokedPackets" (?chokedPackets@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "int Tickbase::pauseTicks" (?pauseTicks@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "bool Tickbase::shifting" (?shifting@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "bool Tickbase::finalTick" (?finalTick@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "bool Tickbase::hasHadTickbaseActive" (?hasHadTickbaseActive@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "int Tickbase::nextShiftAmount" (?nextShiftAmount@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "int Tickbase::isRechargeTime" (?isRechargeTime@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "bool Tickbase::isRecharging" (?isRecharging@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "bool Tickbase::sendPacket" (?sendPacket@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "int Tickbase::DeftargetTickShift" (?DeftargetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Backtrack.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Chams.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+Chams.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Chams.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Chams.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "bool Tickbase::isPeeking" (?isPeeking@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "float Tickbase::realTime" (?realTime@Tickbase@@3MA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "int Tickbase::targetTickShift" (?targetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "int Tickbase::tickShift" (?tickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "int Tickbase::shiftCommand" (?shiftCommand@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "int Tickbase::shiftedTickbase" (?shiftedTickbase@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "int Tickbase::ticksAllowedForProcessing" (?ticksAllowedForProcessing@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "int Tickbase::chokedPackets" (?chokedPackets@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "int Tickbase::pauseTicks" (?pauseTicks@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "bool Tickbase::shifting" (?shifting@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "bool Tickbase::finalTick" (?finalTick@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "bool Tickbase::hasHadTickbaseActive" (?hasHadTickbaseActive@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "int Tickbase::nextShiftAmount" (?nextShiftAmount@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "int Tickbase::isRechargeTime" (?isRechargeTime@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "bool Tickbase::isRecharging" (?isRecharging@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "bool Tickbase::sendPacket" (?sendPacket@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "int Tickbase::DeftargetTickShift" (?DeftargetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Fakelag.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+GrenadePrediction.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+GrenadePrediction.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+GrenadePrediction.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+GrenadePrediction.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Grenades.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+Grenades.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Grenades.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Grenades.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Grenades.obj : warning LNK4006: "class std::vector<struct Grenade_t,class std::allocator<struct Grenade_t> > CGrenade::grenades" (?grenades@CGrenade@@3V?$vector@UGrenade_t@@V?$allocator@UGrenade_t@@@std@@@std@@A) уже определен в ESP.obj; второе определение пропущено
+Knifebot.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+Knifebot.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Knifebot.obj : warning LNK4006: "bool Aimbot::shouldStop" (?shouldStop@Aimbot@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Knifebot.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Knifebot.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Resolver.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+Resolver.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Resolver.obj : warning LNK4006: "bool Aimbot::shouldStop" (?shouldStop@Aimbot@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Resolver.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Resolver.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "bool Aimbot::shouldStop" (?shouldStop@Aimbot@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "bool Tickbase::isPeeking" (?isPeeking@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "float Tickbase::realTime" (?realTime@Tickbase@@3MA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "int Tickbase::targetTickShift" (?targetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "int Tickbase::tickShift" (?tickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "int Tickbase::shiftCommand" (?shiftCommand@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "int Tickbase::shiftedTickbase" (?shiftedTickbase@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "int Tickbase::ticksAllowedForProcessing" (?ticksAllowedForProcessing@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "int Tickbase::chokedPackets" (?chokedPackets@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "int Tickbase::pauseTicks" (?pauseTicks@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "bool Tickbase::shifting" (?shifting@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "bool Tickbase::finalTick" (?finalTick@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "bool Tickbase::hasHadTickbaseActive" (?hasHadTickbaseActive@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "int Tickbase::nextShiftAmount" (?nextShiftAmount@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "int Tickbase::isRechargeTime" (?isRechargeTime@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "bool Tickbase::isRecharging" (?isRecharging@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "bool Tickbase::sendPacket" (?sendPacket@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "int Tickbase::DeftargetTickShift" (?DeftargetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "struct EnginePrediction::NetvarData netvars" (?netvars@@3UNetvarData@EnginePrediction@@A) уже определен в EnginePrediction.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Tickbase.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Visuals.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+Visuals.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Visuals.obj : warning LNK4006: "bool Aimbot::shouldStop" (?shouldStop@Aimbot@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Visuals.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Visuals.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+InputUtil.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+InputUtil.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Logger.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+Logger.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Logger.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Logger.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Netvars.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Netvars.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "unsigned char * ESPfont" (?ESPfont@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "unsigned char * weaponIcon" (?weaponIcon@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "unsigned char * grenadesFont" (?grenadesFont@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "unsigned char * grenadesFont1" (?grenadesFont1@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "unsigned char * smallestcock" (?smallestcock@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "unsigned char * main_logo" (?main_logo@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "unsigned char * main_icon" (?main_icon@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "unsigned char * Cord" (?Cord@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "unsigned char * iconsbyztechnology" (?iconsbyztechnology@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "unsigned char * nazilol" (?nazilol@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "unsigned char * weaponicons" (?weaponicons@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+GUI.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "bool Tickbase::isPeeking" (?isPeeking@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "float Tickbase::realTime" (?realTime@Tickbase@@3MA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "int Tickbase::targetTickShift" (?targetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "int Tickbase::tickShift" (?tickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "int Tickbase::shiftCommand" (?shiftCommand@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "int Tickbase::shiftedTickbase" (?shiftedTickbase@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "int Tickbase::ticksAllowedForProcessing" (?ticksAllowedForProcessing@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "int Tickbase::chokedPackets" (?chokedPackets@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "int Tickbase::pauseTicks" (?pauseTicks@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "bool Tickbase::shifting" (?shifting@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "bool Tickbase::finalTick" (?finalTick@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "bool Tickbase::hasHadTickbaseActive" (?hasHadTickbaseActive@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "int Tickbase::nextShiftAmount" (?nextShiftAmount@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "int Tickbase::isRechargeTime" (?isRechargeTime@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "bool Tickbase::isRecharging" (?isRecharging@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "bool Tickbase::sendPacket" (?sendPacket@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "int Tickbase::DeftargetTickShift" (?DeftargetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Misc.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "bool Aimbot::shouldStop" (?shouldStop@Aimbot@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "bool Tickbase::isPeeking" (?isPeeking@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "float Tickbase::realTime" (?realTime@Tickbase@@3MA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "int Tickbase::targetTickShift" (?targetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "int Tickbase::tickShift" (?tickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "int Tickbase::shiftCommand" (?shiftCommand@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "int Tickbase::shiftedTickbase" (?shiftedTickbase@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "int Tickbase::ticksAllowedForProcessing" (?ticksAllowedForProcessing@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "int Tickbase::chokedPackets" (?chokedPackets@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "int Tickbase::pauseTicks" (?pauseTicks@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "bool Tickbase::shifting" (?shifting@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "bool Tickbase::finalTick" (?finalTick@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "bool Tickbase::hasHadTickbaseActive" (?hasHadTickbaseActive@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "int Tickbase::nextShiftAmount" (?nextShiftAmount@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "int Tickbase::isRechargeTime" (?isRechargeTime@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "bool Tickbase::isRecharging" (?isRecharging@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "bool Tickbase::sendPacket" (?sendPacket@Tickbase@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "int Tickbase::DeftargetTickShift" (?DeftargetTickShift@Tickbase@@3HA) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "unsigned char * ESPfont" (?ESPfont@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "unsigned char * weaponIcon" (?weaponIcon@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "unsigned char * grenadesFont" (?grenadesFont@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "unsigned char * grenadesFont1" (?grenadesFont1@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "unsigned char * smallestcock" (?smallestcock@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "unsigned char * main_logo" (?main_logo@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "unsigned char * main_icon" (?main_icon@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "unsigned char * Cord" (?Cord@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "unsigned char * iconsbyztechnology" (?iconsbyztechnology@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "unsigned char * nazilol" (?nazilol@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "unsigned char * weaponicons" (?weaponicons@@3PAEA) уже определен в ESP.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "struct EnginePrediction::NetvarData netvars" (?netvars@@3UNetvarData@EnginePrediction@@A) уже определен в EnginePrediction.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "class std::deque<struct command_fk,class std::allocator<struct command_fk> > Fakelag::commands_fakelag" (?commands_fakelag@Fakelag@@3V?$deque@Ucommand_fk@@V?$allocator@Ucommand_fk@@@std@@@std@@A) уже определен в Fakelag.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+Hooks.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+render.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+render.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+render.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+render.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+snowflakes.obj : warning LNK4006: "bool AntiAim::r8Working" (?r8Working@AntiAim@@3_NA) уже определен в Config.obj; второе определение пропущено
+snowflakes.obj : warning LNK4006: "bool Misc::hcovsex" (?hcovsex@Misc@@3_NA) уже определен в Aimbot.obj; второе определение пропущено
+snowflakes.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Misc::spotifytitle" (?spotifytitle@Misc@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+snowflakes.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > indexes" (?indexes@@3V?$vector@HV?$allocator@H@std@@@std@@A) уже определен в Aimbot.obj; второе определение пропущено
+C:\Users\я\Desktop\sdfsdf\Debug\ecvator.dll : warning LNK4088: образ создается из-за параметра /FORCE; образ нельзя запустить
+  EcvatorZov.vcxproj -> C:\Users\я\Desktop\sdfsdf\Debug\ecvator.dll

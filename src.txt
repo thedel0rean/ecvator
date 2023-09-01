@@ -1,0 +1,154 @@
+	//void vectorTransform(const Vector& in1, const matrix3x4& in2, Vector& out)
+//{
+//	out = Vector(in1.dotProduct(Vector(in2[0][0], in2[0][1], in2[0][2])) + in2[0][3], in1.dotProduct(Vector(in2[1][0], in2[1][1], in2[1][2])) + in2[1][3], in1.dotProduct(Vector(in2[2][0], in2[2][1], in2[2][2])) + in2[2][3]);
+//}
+
+//void contact_transforms(const matrix3x4& in1, const matrix3x4& in2, matrix3x4& out)
+//{
+//	if (&in1 == &out)
+//	{
+//		matrix3x4 in1b = in1;
+//		contact_transforms(in1b, in2, out);
+//		return;
+//	}
+
+//	if (&in2 == &out)
+//	{
+//		matrix3x4 in2b = in2;
+//		contact_transforms(in1, in2b, out);
+//		return;
+//	}
+
+//	out.mat[0][0] = in1.mat[0][0] * in2.mat[0][0] + in1.mat[0][1] * in2.mat[1][0] + in1.mat[0][2] * in2.mat[2][0];
+//	out.mat[0][1] = in1.mat[0][0] * in2.mat[0][1] + in1.mat[0][1] * in2.mat[1][1] + in1.mat[0][2] * in2.mat[2][1];
+//	out.mat[0][2] = in1.mat[0][0] * in2.mat[0][2] + in1.mat[0][1] * in2.mat[1][2] + in1.mat[0][2] * in2.mat[2][2];
+//	out.mat[0][3] = in1.mat[0][0] * in2.mat[0][3] + in1.mat[0][1] * in2.mat[1][3] + in1.mat[0][2] * in2.mat[2][3] + in1.mat[0][3];
+
+//	out.mat[1][0] = in1.mat[1][0] * in2.mat[0][0] + in1.mat[1][1] * in2.mat[1][0] + in1.mat[1][2] * in2.mat[2][0];
+//	out.mat[1][1] = in1.mat[1][0] * in2.mat[0][1] + in1.mat[1][1] * in2.mat[1][1] + in1.mat[1][2] * in2.mat[2][1];
+//	out.mat[1][2] = in1.mat[1][0] * in2.mat[0][2] + in1.mat[1][1] * in2.mat[1][2] + in1.mat[1][2] * in2.mat[2][2];
+//	out.mat[1][3] = in1.mat[1][0] * in2.mat[0][3] + in1.mat[1][1] * in2.mat[1][3] + in1.mat[1][2] * in2.mat[2][3] + in1.mat[1][3];
+
+//	out.mat[2][0] = in1.mat[2][0] * in2.mat[0][0] + in1.mat[2][1] * in2.mat[1][0] + in1.mat[2][2] * in2.mat[2][0];
+//	out.mat[2][1] = in1.mat[2][0] * in2.mat[0][1] + in1.mat[2][1] * in2.mat[1][1] + in1.mat[2][2] * in2.mat[2][1];
+//	out.mat[2][2] = in1.mat[2][0] * in2.mat[0][2] + in1.mat[2][1] * in2.mat[1][2] + in1.mat[2][2] * in2.mat[2][2];
+//	out.mat[2][3] = in1.mat[2][0] * in2.mat[0][3] + in1.mat[2][1] * in2.mat[1][3] + in1.mat[2][2] * in2.mat[2][3] + in1.mat[2][3];
+//}
+
+//std::vector<std::pair<Vector, bool>> get_multipoints(Entity* player, int hitbox, matrix3x4* matrix)
+//{
+//	std::vector<std::pair<Vector, bool>> points = {};
+
+//	auto model = player->getModel();
+//	if (!model)
+//		return points;
+
+//	auto hdr = interfaces->modelInfo->getStudioModel(model);
+//	if (!hdr)
+//		return points;
+
+//	auto set = hdr->getHitboxSet(0);
+//	if (!set)
+//		return points;
+
+//	auto bbox = set->getHitbox(hitbox);
+//	if (!bbox)
+//		return points;
+
+//	if (bbox->capsuleRadius <= 0.f)
+//	{
+//		matrix3x4 rot_matrix = {};
+//		// rot_matrix.angle_matrix(bbox->rotation);
+
+//		matrix3x4 mat = {};
+//		contact_transforms(matrix[bbox->bone], rot_matrix, mat);
+
+//		Vector origin = mat.origin();
+//		Vector center = (bbox->bbMin + bbox->bbMax) * 0.5f;
+
+//		if (hitbox == Hitboxes::LeftFoot || hitbox == Hitboxes::RightFoot)
+//			points.emplace_back(center, true);
+
+//		if (points.empty())
+//			return points;
+
+//		for (auto& p : points)
+//		{
+//			p.first = { p.first.dotProduct(mat.mat[0]), p.first.dotProduct(mat.mat[1]), p.first.dotProduct(mat.mat[2]) };
+//			p.first += origin;
+//		}
+//	}
+//	else
+//	{
+//		Vector max = bbox->bbMax;
+//		Vector min = bbox->bbMin;
+//		Vector center = (bbox->bbMin + bbox->bbMax) * 0.5f;
+
+//		float scale_slider = config->rageBot[RcurrentCategory].multiPointScale / 100.f;
+//		float scale_scale = bbox->capsuleRadius * scale_slider;
+
+//		constexpr float rotation = 0.70710678f;
+//		float near_center_scale = bbox->capsuleRadius * (scale_scale / 2.f);
+
+//		if (hitbox == Hitboxes::Head)
+//		{
+//			points.emplace_back(center, true);
+
+//			Vector point{  };
+//			point = { max.x + 0.70710678f * scale_scale, max.y - 0.70710678f * scale_scale, max.z };
+//			points.emplace_back(point, false);
+
+//			point = { max.x, max.y, max.z + scale_scale };
+//			points.emplace_back(point, false);
+
+//			point = { max.x, max.y, max.z - scale_scale };
+//			points.emplace_back(point, false);
+
+//			point = { max.x, max.y - scale_scale, max.z };
+//			points.emplace_back(point, false);
+//		}
+//		else 
+//		{
+//			if (hitbox == Hitboxes::Belly)
+//			{
+//				points.emplace_back(center, true);
+//				points.emplace_back(Vector(center.x, center.y, min.z + scale_scale), false);
+//				points.emplace_back(Vector(center.x, center.y, max.z - scale_scale), false);
+//				points.emplace_back(Vector{ center.x, max.y - scale_scale, center.z }, false);
+//			}
+//			else if (hitbox == Hitboxes::Pelvis || hitbox == Hitboxes::UpperChest)
+//			{
+//				points.emplace_back(center, true);
+//				points.emplace_back(Vector(center.x, center.y, max.z + scale_scale), false);
+//				points.emplace_back(Vector(center.x, center.y, min.z - scale_scale), false);
+//			}
+//			else if (hitbox == Hitboxes::LowerChest || hitbox == Hitboxes::Thorax)
+//			{
+//				points.emplace_back(center, true);
+//				points.emplace_back(Vector(center.x, center.y, max.z + scale_scale), false);
+//				points.emplace_back(Vector(center.x, center.y, min.z - scale_scale), false);
+
+//				points.emplace_back(Vector{ center.x, max.y - scale_scale, center.z }, false);
+//			}
+//			else if (hitbox == Hitboxes::RightCalf || hitbox == Hitboxes::LeftCalf)
+//			{
+//				points.emplace_back(center, true);
+//				points.emplace_back(Vector{ max.x - (bbox->capsuleRadius / 2.f), max.y, max.z }, false);
+//			}
+//			else if (hitbox == Hitboxes::RightThigh || hitbox == Hitboxes::LeftThigh)
+//				points.emplace_back(center, true);
+//			else if (hitbox == Hitboxes::RightForearm || hitbox == Hitboxes::LeftForearm)
+//				points.emplace_back(Vector{ max.x + bbox->capsuleRadius, center.y, center.z }, false);
+//			else
+//				points.emplace_back(center, true);
+//		}
+
+//		if (points.empty())
+//			return points;
+
+//		for (auto& p : points)
+//			vectorTransform(p.first, matrix[bbox->bone], p.first);
+//	}
+
+//	return points;
+//}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\я\Desktop\sdfsdf\Release\ecvator.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\я\Desktop\sdfsdf\Release\blur_x.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\я\Desktop\sdfsdf\Release\blur_y.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\я\Desktop\sdfsdf\Release\chromatic_aberration.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
